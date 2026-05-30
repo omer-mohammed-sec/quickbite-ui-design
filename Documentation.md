@@ -95,7 +95,7 @@ Order Tracking (Live Status)
 | **Screen 3 – Restaurant/Product Page** | Restaurant banner, info, menu items with Add buttons |
 | **Screen 4 – Profile Page** | Avatar, user info, settings menu (Orders, Addresses, Payments) |
 
-> See `/wireframes/` folder for exported images.
+> See `/wireframes/` file for exported images.
 
 
 
